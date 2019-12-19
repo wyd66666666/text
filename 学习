@@ -3,3 +3,23 @@ c++ 类
 
 友元
 https://blog.csdn.net/zzyczzyc/article/details/87632702
+1.private成员只能被本类成员（类内）和友元访问，不能被派生类访问；
+2.protected成员可以被派生类访问。
+
+深入理解C++中public、protected及private用法
+https://www.cnblogs.com/tsingke/p/10052445.html
+
+C++ 类成员函数
+https://www.runoob.com/cplusplus/cpp-class-member-functions.html
+
+C++ 继承
+https://www.runoob.com/cplusplus/cpp-inheritance.html
+
+没学懂（）
+{
+C++ 多态
+https://www.runoob.com/cplusplus/cpp-polymorphism.html
+
+理解C++虚函数
+https://www.jianshu.com/p/d07e0ac0ba3c?from=singlemessage
+}
