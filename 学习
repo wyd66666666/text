@@ -26,3 +26,5 @@ https://www.jianshu.com/p/d07e0ac0ba3c?from=singlemessage
 
 C++容器和迭代器
 https://blog.csdn.net/u013719339/article/details/80615217
+迭代器是一种检查容器内元素并遍历元素的数据类型。可以替代下标访问vector对象的元素。
+https://blog.csdn.net/zhanh1218/article/details/33340959
